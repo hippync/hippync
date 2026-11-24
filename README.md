@@ -37,7 +37,7 @@
 | Project | What it does | Links |
 |---|---|---|
 | **Jobs Radar QC** | Every live tech job in Québec, pulled straight from company ATS. Daily Python pipeline, Next.js front end. | [Code](https://github.com/hippync/jobs-radar-qc) · [Live](https://jobs-radar-qc.vercel.app) |
-| **Fundamentals Kasten** | A Zettelkasten of 130 software engineering fundamentals, across a systems ladder and an AI ladder. | [Code](https://github.com/hippync/fundamentals-kasten) |
+| **Fundamentals Kasten** | A study template of 130 software engineering fundamentals (systems and AI ladders) that I fill in as I learn. | [Code](https://github.com/hippync/fundamentals-kasten) |
 
 ---
 
