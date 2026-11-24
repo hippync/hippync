@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Hansy 👋
 
-<!--
-**hippync/hippync** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer in Montréal. 4 years at National Bank of Canada across data,
+Java backend, SRE and AI agents. Finishing a B.Eng. in Software Engineering at ÉTS (April 2027).
 
-Here are some ideas to get you started:
+Deterministic first, AI second.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** Java · Spring Boot · Python · SQL · Terraform · GitHub Actions · AI agents
+
+### Featured
+- **[jobs-radar-qc](https://github.com/hippync/jobs-radar-qc)**: every live tech job in Québec,
+  pulled straight from company ATS. Daily Python pipeline, Next.js front end. [Live app](https://jobs-radar-qc.vercel.app)
+- **[fundamentals-kasten](https://github.com/hippync/fundamentals-kasten)**: a Zettelkasten
+  of 130 software engineering fundamentals, across a systems ladder and an AI ladder.
+
+[LinkedIn](https://linkedin.com/in/hansy-pierre)
